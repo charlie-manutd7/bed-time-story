@@ -1,9 +1,9 @@
-**Here are the steps needed to set up the virtual environment:**
-# Step 1: Create a virtual environment
+Here are the steps needed to set up the virtual environment:
+Step 1: Create a virtual environment
 python3 -m venv myenv
-# Step 2: Activate the virtual environment
+Step 2: Activate the virtual environment
 source myenv/bin/activate
-# Step 3: Install necessary packages
+Step 3: Install necessary packages
 pip install -r requirements.txt
 
 There's also another folder that contains voice sample. It's not included in this repository, but I can share with you if needed. 
